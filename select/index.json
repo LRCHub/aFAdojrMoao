@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "勝手にしやがれ",
+  "base_artist": "沢田 研二",
+  "createdAt": "2026-03-10T04:35:02.450328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/01_勝手にしやがれ_majiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/02_勝手にしやがれ_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "沢田研二",
+      "has_synced": true,
+      "path": "select/03_勝手にしやがれ_沢田研二.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "十字郎",
+      "has_synced": false,
+      "path": "select/04_勝手にしやがれ_十字郎.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/05_勝手にしやがれ_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/06_勝手にしやがれ_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/07_勝手にしやがれ_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "ジェロ",
+      "has_synced": false,
+      "path": "select/08_勝手にしやがれ_ジェロ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "Majiko",
+      "has_synced": true,
+      "path": "select/09_勝手にしやがれ_Majiko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "Kenji Sawada",
+      "has_synced": true,
+      "path": "select/10_勝手にしやがれ_Kenji_Sawada.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "勝手にしやがれ!!",
+      "artist": "ニシハラスンホ",
+      "has_synced": true,
+      "path": "select/11_勝手にしやがれ!!_ニシハラスンホ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Katte Ni Shiyagare (勝手にしやがれ)",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/12_Katte_Ni_Shiyagare_(勝手にしやがれ)_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "Mone Kamishiraishi",
+      "has_synced": true,
+      "path": "select/13_勝手にしやがれ_Mone_Kamishiraishi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "Tak Matsumoto",
+      "has_synced": true,
+      "path": "select/14_勝手にしやがれ_Tak_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "勝手にしやがれ",
+      "artist": "SHOW-YA",
+      "has_synced": false,
+      "path": "select/15_勝手にしやがれ_SHOW-YA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勝手にしやがれ",
+      "artist": "沢田 研二",
+      "has_synced": false,
+      "path": "select/pl_01_勝手にしやがれ_沢田_研二.txt"
+    }
+  ]
+}
